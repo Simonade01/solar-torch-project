@@ -13,7 +13,7 @@ Millions of students struggle to study at night due to unreliable power. Our goa
 - ✅ Created this open-source repo so others can replicate it  
 
 ### How to Build One
-See the [tutorials](tutorials/) folder for step-by-step guides.
+Will soon be released(See the [tutorials](tutorials/) folder for step-by-step guides.)
 
 ### Project Structure
 
