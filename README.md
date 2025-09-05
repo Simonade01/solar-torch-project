@@ -9,8 +9,7 @@ Millions of students struggle to study at night due to unreliable power. Our goa
 
 ### What We’ve Done
 - ✅ Designed and built a working prototype using simple materials  
-- ✅ Documented the design, materials, and costs  
-- ✅ Distributed our first torches to local students and shop owners  
+- ✅ Documented the design, materials, and costs    
 - ✅ Created this open-source repo so others can replicate it  
 
 ### How to Build One
